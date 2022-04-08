@@ -1,0 +1,38 @@
+[
+  {
+    "citizen_identifity_type_id" : "CitizenIdentifityType01",
+    "name" : "Cédula de Ciudadanía"
+  },
+  {
+    "citizen_identifity_type_id" : "CitizenIdentifityType02",
+    "name" : "Tarjeta de Extranjería"
+  },
+  {
+    "citizen_identifity_type_id" : "CitizenIdentifityType03",
+    "name" : "Pasaporte"
+  },
+  {
+    "citizen_identifity_type_id" : "CitizenIdentifityType04",
+    "name" : "Carnet Diplomatico"
+  },
+  {
+    "citizen_identifity_type_id" : "CitizenIdentifityType05",
+    "name" : "NIT Número de Identificación Tributario"
+  },
+  {
+    "citizen_identifity_type_id" : "CitizenIdentifityType06",
+    "name" : "Tarjeta de Identidad
+  },
+  {
+    "citizen_identifity_type_id" : "CitizenIdentifityType07",
+    "name" : "Registro Civil"
+  },
+  {
+    "citizen_identifity_type_id" : "CitizenIdentifityType08",
+    "name" : "Menor sin Identificación
+  },
+   {
+    "citizen_identifity_type_id" : "CitizenIdentifityType09",
+    "name" : "Mayor sin Identificación"
+  }
+]
