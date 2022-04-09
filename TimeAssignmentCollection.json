@@ -1,0 +1,233 @@
+[
+  {
+    "time_assignment_id": "TimeAssignment700720",
+    "hour_star_text": "7:00 am",
+    "hour_star_value": "7:00",
+    "hour_end_text": "7:20 am",
+    "hour_end_value": "7:20"
+  },
+  {
+    "time_assignment_id": "TimeAssignment720740",
+    "hour_star_text": "7:20 am",
+    "hour_star_value": "7:20",
+    "hour_end_text": "7:40 am",
+    "hour_end_value": "7:40"
+  },
+  {
+    "time_assignment_id": "TimeAssignment740800",
+    "hour_star_text": "7:40 am",
+    "hour_star_value": "7:40",
+    "hour_end_text": "8:00 am",
+    "hour_end_value": "8:00"
+  },
+  {
+    "time_assignment_id": "TimeAssignment800820",
+    "hour_star_text": "8:00 am",
+    "hour_star_value": "8:00",
+    "hour_end_text": "8:20 am",
+    "hour_end_value": "8:20"
+  },
+  {
+    "time_assignment_id": "TimeAssignment820840",
+    "hour_star_text": "8:20 am",
+    "hour_star_value": "8:20",
+    "hour_end_text": "8:40 am",
+    "hour_end_value": "8:40"
+  },
+  {
+    "time_assignment_id": "TimeAssignment840900",
+    "hour_star_text": "8:40 am",
+    "hour_star_value": "8:40",
+    "hour_end_text": "9:00 am",
+    "hour_end_value": "9:00"
+  },
+  {
+    "time_assignment_id": "TimeAssignment900920",
+    "hour_star_text": "9:00 am",
+    "hour_star_value": "9:00",
+    "hour_end_text": "9:20 am",
+    "hour_end_value": "9:20"
+  },
+  {
+    "time_assignment_id": "TimeAssignment920940",
+    "hour_star_text": "9:20 am",
+    "hour_star_value": "9:20",
+    "hour_end_text": "9:40 am",
+    "hour_end_value": "9:40"
+  },
+  {
+    "time_assignment_id": "TimeAssignment9401000",
+    "hour_star_text": "9:40 am",
+    "hour_star_value": "9:40",
+    "hour_end_text": "10:00 am",
+    "hour_end_value": "10:00"
+  },
+  {
+    "time_assignment_id": "TimeAssignment10001020",
+    "hour_star_text": "10:00 am",
+    "hour_star_value": "10:00",
+    "hour_end_text": "10:20 am",
+    "hour_end_value": "10:20"
+  },
+  {
+    "time_assignment_id": "TimeAssignment10201040",
+    "hour_star_text": "10:20 am",
+    "hour_star_value": "10:20",
+    "hour_end_text": "10:40 am",
+    "hour_end_value": "10:40"
+  },
+  {
+    "time_assignment_id": "TimeAssignment10401100",
+    "hour_star_text": "10:40 am",
+    "hour_star_value": "10:40",
+    "hour_end_text": "11:00 am",
+    "hour_end_value": "11:00"
+  },
+  {
+    "time_assignment_id": "TimeAssignment11001120",
+    "hour_star_text": "11:00 am",
+    "hour_star_value": "11:00",
+    "hour_end_text": "11:20 am",
+    "hour_end_value": "11:20"
+  },
+  {
+    "time_assignment_id": "TimeAssignment11201140",
+    "hour_star_text": "11:20 am",
+    "hour_star_value": "11:20",
+    "hour_end_text": "11:40 am",
+    "hour_end_value": "11:40"
+  },
+  {
+    "time_assignment_id": "TimeAssignment11401200",
+    "hour_star_text": "11:40 am",
+    "hour_star_value": "11:40",
+    "hour_end_text": "12:00 pm",
+    "hour_end_value": "12:00"
+  },
+  {
+    "time_assignment_id": "TimeAssignment12001220",
+    "hour_star_text": "12:00 pm",
+    "hour_star_value": "12:00",
+    "hour_end_text": "12:20 pm",
+    "hour_end_value": "12:20"
+  },
+  {
+    "time_assignment_id": "TimeAssignment12201240",
+    "hour_star_text": "12:20 pm",
+    "hour_star_value": "12:20",
+    "hour_end_text": "12:40 am",
+    "hour_end_value": "12:40"
+  },
+  {
+    "time_assignment_id": "TimeAssignment12401300",
+    "hour_star_text": "12:40 pm",
+    "hour_star_value": "12:40",
+    "hour_end": "1:00 pm",
+    "hour_end_value": "13:00"
+  },
+  {
+    "time_assignment_id": "TimeAssignment13001320",
+    "hour_star_text": "1:00 pm",
+    "hour_star_value": "13:00",
+    "hour_end_text": "1:20 pm",
+    "hour_end_value": "13:20"
+  },
+  {
+    "time_assignment_id": "TimeAssignment13201340",
+    "hour_star_text": "1:20 pm",
+    "hour_star_value": "13:20",
+    "hour_end_text": "1:40 pm",
+    "hour_end_value": "13:40"
+  },
+  {
+    "time_assignment_id": "TimeAssignment13401400",
+    "hour_star_text": "1:40 pm",
+    "hour_star_value": "13:40",
+    "hour_end_text": "2:00 pm",
+    "hour_end_value": "14:00"
+  },
+  {
+    "time_assignment_id": "TimeAssignment14001420",
+    "hour_star_text": "2:00 pm",
+    "hour_star_value": "14:00",
+    "hour_end_text": "2:20 pm",
+    "hour_end_value": "14:20"
+  },
+  {
+    "time_assignment_id": "TimeAssignment14201440",
+    "hour_star_text": "2:20 pm",
+    "hour_star_value": "14:20",
+    "hour_end_text": "2:40 pm",
+    "hour_end_value": "14:40"
+  },
+  {
+    "time_assignment_id": "TimeAssignment14401500",
+    "hour_star_text": "2:40 pm",
+    "hour_star_value": "14:40",
+    "hour_end_text": "3:00 pm",
+    "hour_end_value": "15:00"
+  },
+  {
+    "time_assignment_id": "TimeAssignment15001520",
+    "hour_star_text": "3:00 pm",
+    "hour_star_value": "15:00",
+    "hour_end_text": "3:20 pm",
+    "hour_end_value": "15:20"
+  },
+  {
+    "time_assignment_id": "TimeAssignment15201540",
+    "hour_star_text": "15:20 pm",
+    "hour_star_value": "15:20",
+    "hour_end_text": "15:40 pm",
+    "hour_end_value": "15:40"
+  },
+  {
+    "time_assignment_id": "TimeAssignment15401600",
+    "hour_star_text": "3:40 pm",
+    "hour_star_value": "15:40",
+    "hour_end_text": "4:00 pm",
+    "hour_end_value": "16:00"
+  },
+  {
+    "time_assignment_id": "TimeAssignment16001620",
+    "hour_star_text": "4:00 pm",
+    "hour_star_value": "16:00",
+    "hour_end_text": "4:20 pm",
+    "hour_end_value": "16:20"
+  },
+  {
+    "time_assignment_id": "TimeAssignment16201640",
+    "hour_star_text": "4:20 pm",
+    "hour_star_value": "16:20",
+    "hour_end_text": "4:40 pm",
+    "hour_end_value": "16:40"
+  },
+  {
+    "time_assignment_id": "TimeAssignment16401700",
+    "hour_star_text": "4:40 pm",
+    "hour_star_value": "16:40",
+    "hour_end_text": "5:00 pm",
+    "hour_end_value": "17:00"
+  },
+  {
+    "time_assignment_id": "TimeAssignment17001720",
+    "hour_star_text": "5:00 pm",
+    "hour_star_value": "17:00",
+    "hour_end_text": "5:20 pm",
+    "hour_end_value": "17:20"
+  },
+  {
+    "time_assignment_id": "TimeAssignment17201740",
+    "hour_star_text": "5:20 pm",
+    "hour_star_value": "17:20",
+    "hour_end_text": "5:40 pm",
+    "hour_end_value": "17:40"
+  },
+  {
+    "time_assignment_id": "TimeAssignment17401800",
+    "hour_star_text": "5:40 pm",
+    "hour_star_value": "17:40",
+    "hour_end_text": "6:00 pm",
+    "hour_end_value": "18:00"
+  }
+]
